@@ -1,1 +1,2 @@
 Hi Git
+hi i got how to push any file into git.
